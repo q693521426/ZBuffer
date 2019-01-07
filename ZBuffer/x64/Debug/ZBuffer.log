@@ -1,0 +1,8 @@
+﻿  Render.cpp
+e:\code\vs project\zbuffer\zbuffer\render.cpp(92): warning C4305: “=”: 从“double”到“FLOAT”截断
+e:\code\vs project\zbuffer\zbuffer\render.cpp(93): warning C4305: “=”: 从“double”到“FLOAT”截断
+e:\code\vs project\zbuffer\zbuffer\render.cpp(327): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\code\vs project\zbuffer\zbuffer\render.cpp(395): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\code\vs project\zbuffer\zbuffer\render.cpp(396): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\code\vs project\zbuffer\zbuffer\render.cpp(451): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ZBuffer.vcxproj -> E:\Code\VS Project\ZBuffer\x64\Debug\ZBuffer.exe

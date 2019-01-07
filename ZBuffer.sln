@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZBuffer", "ZBuffer\ZBuffer.vcxproj", "{167B2743-3D97-4D9E-9B9B-7A944BD6C476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167B2743-3D97-4D9E-9B9B-7A944BD6C476}.Debug|x64.ActiveCfg = Debug|x64
+		{167B2743-3D97-4D9E-9B9B-7A944BD6C476}.Debug|x64.Build.0 = Debug|x64
+		{167B2743-3D97-4D9E-9B9B-7A944BD6C476}.Debug|x86.ActiveCfg = Debug|Win32
+		{167B2743-3D97-4D9E-9B9B-7A944BD6C476}.Debug|x86.Build.0 = Debug|Win32
+		{167B2743-3D97-4D9E-9B9B-7A944BD6C476}.Release|x64.ActiveCfg = Release|x64
+		{167B2743-3D97-4D9E-9B9B-7A944BD6C476}.Release|x64.Build.0 = Release|x64
+		{167B2743-3D97-4D9E-9B9B-7A944BD6C476}.Release|x86.ActiveCfg = Release|Win32
+		{167B2743-3D97-4D9E-9B9B-7A944BD6C476}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E206E3CB-AF3E-440C-A0DA-BA9B5D8DB986}
+	EndGlobalSection
+EndGlobal
